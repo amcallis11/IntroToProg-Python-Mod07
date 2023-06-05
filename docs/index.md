@@ -1,4 +1,5 @@
 ## Python Code Guide
+This script will demonstrate an example of pickling in Python and adding a try-catch block to make certain the user adds the correct data type when entering user input. The script adds dictionary rows to a list through a while loop that asks if the user wants to continue entering data.
 
 ### Importing Modules
 ```python
