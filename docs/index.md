@@ -72,6 +72,6 @@ print(objFileData)
 ```
 The code prints the contents of `objFileData`, which represents the data read from the file.
 
-We're done!
+We're done! Hooray!
 
 
